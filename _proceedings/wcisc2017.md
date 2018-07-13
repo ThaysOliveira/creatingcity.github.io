@@ -1,6 +1,5 @@
 ---
 title: "1st Workshop on Computational Intelligence and Smart Cities"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 ---
 
 Workshop **WCISC 2017** held in partnership with the **Congresso Brasileiro de Inteligência Computacional (CBIC 2017)**
