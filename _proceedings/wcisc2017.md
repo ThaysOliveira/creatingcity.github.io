@@ -1,12 +1,13 @@
 ---
 title: "1st Workshop on Computational Intelligence and Smart Cities"
+date: 2017-10-30T11:48:41-04:00
+toc: true
 ---
-
-Workshop **WCISC 2017** held in partnership with the **Congresso Brasileiro de Inteligência Computacional (CBIC 2017)**
+Workshop **WCISC 2017** held in partnership with the **[Congresso Brasileiro de Inteligência Computacional (CBIC 2017)](http://cbic2017.org/index.html)**
 
 See more at: [http://cbic2017.org/Workshops.html](http://cbic2017.org/Workshops.html)
 
-## Anais do WCISC 2017 ([Download Proceedings](proceedings-wcisc2017.pdf))
+## Proceedings of the WCISC 2017 ([Download Proceedings](proceedings-wcisc2017.pdf))
 
 Diógenes Ferreira, Vitor Coelho, Sidelmo Silva.
 [Plataforma Open-harware de baixo custo para teste de dispositivos IoT voltados para Smart Cities](/wcisc2017/CBIC2017-WCISC_paper_1.pdf). *p 48-57*
