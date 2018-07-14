@@ -2,7 +2,6 @@
 permalink: /
 title: "Welcome to Creating.City portal"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 
 feature_row:
@@ -27,9 +26,9 @@ feature_row2:
 Developing technologies for smart cities and improving citizens' quality of life.
 
 ## Our Team
-
 Our team includes researches from Brazil and all around the world.
 
+**Creating.City members:**
 
 {% include feature_row %}
 
