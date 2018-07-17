@@ -16,11 +16,11 @@ locale                   : "en-US"
 title                    : "Creating.City"
 title_separator          : "--"
 name                     : &name "Creating.City" # &name is a YAML anchor which can be *referenced later
-description              : &description "Creating.City portal"
+description              : &description "Developing technologies for the cities of the future."
 url                      : https://creatingcity.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "creatingcity/creatingcity.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/favicon.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
