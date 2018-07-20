@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Creating.City portal"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Developing technologies for smart cities and improving citizens' quality of life."
 toc: true
 
 feature_row:
