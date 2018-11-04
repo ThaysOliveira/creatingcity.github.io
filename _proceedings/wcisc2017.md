@@ -7,7 +7,7 @@ Workshop **WCISC 2017** held in partnership with the **[Congresso Brasileiro de 
 
 See more at: [http://cbic2017.org/Workshops.html](http://cbic2017.org/Workshops.html)
 
-## Proceedings of the WCISC 2017 ([Download Proceedings](proceedings-wcisc2017.pdf))
+## Proceedings of the WCISC 2017 ([Download Proceedings](/wcisc2017/proceedings-wcisc2017.pdf))
 
 Diógenes Ferreira, Vitor Coelho, Sidelmo Silva.
 [Plataforma Open-harware de baixo custo para teste de dispositivos IoT voltados para Smart Cities](/wcisc2017/CBIC2017-WCISC_paper_1.pdf). *p 48-57*
