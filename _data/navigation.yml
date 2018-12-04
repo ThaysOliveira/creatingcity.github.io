@@ -21,13 +21,13 @@ foo:
 # main links
 main:
   - title: "About"
-    url: /
+    url: /about/
   - title: "News"
     url: /year-archive/
   - title: "Proceedings"
     url: /proceedings/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Our team"
+    url: /team/
 
 # sidebar navigation list sample
 sidebar-sample:
