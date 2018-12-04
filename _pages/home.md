@@ -10,5 +10,4 @@ header:
 excerpt: >
   Developing technologies for smart cities  <br />
   and improving citizens' quality of life. <br /><br /><br />
-
 ---

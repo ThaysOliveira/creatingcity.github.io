@@ -2,8 +2,7 @@
 permalink: /team/
 title: "Creating.City team"
 excerpt: "Developing technologies for smart cities and improving citizens' quality of life."
-toc: true
-
+classes: wide
 feature_row:
   - image_path: /assets/images/foto-vitor.jpeg
     alt: "Vitor Nazário Coelho"
@@ -20,12 +19,9 @@ feature_row2:
     excerpt: 'Luiz Satoru Ochi<br />[<i class="fab fa-github"></i>@satoru](https://github.com/satoru){: .btn .btn--github} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
 ---
 
-## Who we are?
+Our founders includes researches from Brazil, but partner extends to researchers from different parts of the globe.
 
-Our team includes researches from Brazil and all around the world.
-
-**Creating.City team:**
-
+**Founders:**
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
